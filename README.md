@@ -5,9 +5,9 @@
 ### 克隆脚本
 打开终端 输入命令 `git clone https://github.com/yuxi-ovo/HSR-fix`
 <br />如果你没有**git** 则可以运行这段命令 `curl -L https://github.com/yuxi-ovo/HSR-fix/archive/refs/heads/main.zip`
-<br />再输入解压命令 `unzip project.zip`
+<br />再输入解压命令 `unzip main.zip`
 ### 运行脚本
-在终端输入命令 `sudo sh HSR-fix/main.sh`
+在终端输入命令 `sudo sh main/main.sh`
 运行后会让你输入Mac密码 **直接输入就好**
 运行成功后会出现**相应的提示** 提示成功的字样就代表成功了
 
